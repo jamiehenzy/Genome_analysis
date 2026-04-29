@@ -5,9 +5,9 @@ The course is designed to prepare students interested in a computational/bioinfo
 
 ## Course material
 The material for the course is arranged in repositories (that are perpetually under construction) that begin with "CTGA_":
-CGTA_Getting-started - Syllabus; intro readings; setting up command-line access; best practices and tips, etc.
-CGTA_UNIX_HPC - Basic tutorial and exercises to get students comfortable with the command line, both locally and remotely.
-CGTA_Explore - Specific command-line tools for downloading, viewing, parsing, and performing simple analysis on data.
-CGTA_RStudio - Tutorials for installing packages, reading in and parsing data, and performing analyses in RStudio.
-CGTA_DGE - Introduction to the workflow of differential gene expression analysis; students start with reads and end with a heatmap to visualize DE genes.
-CGTA_Phylo - Exercises to introduce concepts of phylogenetics and RStudio scripts to carry out a homolog-to-MSA-to-tree analysis.
++ CGTA_Getting-started - Syllabus; intro readings; setting up command-line access; best practices and tips, etc.
++ CGTA_UNIX_HPC - Basic tutorial and exercises to get students comfortable with the command line, both locally and remotely.
++ CGTA_Explore - Specific command-line tools for downloading, viewing, parsing, and performing simple analysis on data.
++ CGTA_RStudio - Tutorials for installing packages, reading in and parsing data, and performing analyses in RStudio.
++ CGTA_DGE - Introduction to the workflow of differential gene expression analysis; students start with reads and end with a heatmap to visualize DE genes.
++ CGTA_Phylo - Exercises to introduce concepts of phylogenetics and RStudio scripts to carry out a homolog-to-MSA-to-tree analysis.
