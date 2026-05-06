@@ -13,6 +13,8 @@ The material for the course is arranged in repositories (that are perpetually un
 + CGTA_Phylo - Exercises to introduce concepts of phylogenetics and RStudio scripts to carry out a homolog-to-MSA-to-tree analysis.
 
 ### Material in this repo, "Getting Started"
++ Syllabus: Refer to this document often! Make a note somewhere of all due dates and exam dates! Read the fine print!
++ Module_agreement: This document must be read, signed, and given to me at the beginning of the semester.
 + What is bioinformatics?
 + Accessing the command line of a Linux environment locally and remotely
 + Best practices
