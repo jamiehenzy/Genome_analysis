@@ -11,3 +11,9 @@ The material for the course is arranged in repositories (that are perpetually un
 + CGTA_RStudio - Tutorials for installing packages, reading in and parsing data, and performing analyses in RStudio.
 + CGTA_DGE - Introduction to the workflow of differential gene expression analysis; students start with reads and end with a heatmap to visualize DE genes.
 + CGTA_Phylo - Exercises to introduce concepts of phylogenetics and RStudio scripts to carry out a homolog-to-MSA-to-tree analysis.
+
+### Material in this repo, "Getting Started"
++ What is bioinformatics?
++ Accessing the command line of a Linux environment locally and remotely
++ Best practices
+
