@@ -5,4 +5,4 @@ Here is presented a collection of resources to introduce you to the field and it
 [A beginner's guide to bioinformatics](pdf/beg_guide_bioinfo.pdf)
 
 ## History of bioinformatics
-[A Brief History of Bioinformatics](pdf/hist_of_bioinfo.pdf)
+[A Brief History of Bioinformatics](pdf/Brief_hist_bioinfo.pdf)
