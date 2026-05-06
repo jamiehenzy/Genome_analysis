@@ -16,7 +16,7 @@ The material for the course is arranged in repositories (that are perpetually un
 + Syllabus: Refer to this document often! Make a note somewhere of all due dates and exam dates! Read the fine print!
 + Module_agreement: This document must be read, signed, and given to me at the beginning of the semester.
 + Accessing the command line of a Linux environment locally and remotely
-+ Collection of resources to introduce you to the field of bioinformatics and computational biology
++ Collection of resources to introduce you to the field of bioinformatics and computational biology, below.
 ---
 ## What is bioinformatics anyway?
 [A beginner's guide to bioinformatics](pdf/Beg_guide_bioinfo.pdf)
