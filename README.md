@@ -15,7 +15,30 @@ The material for the course is arranged in repositories (that are perpetually un
 ### Material in this repo, "Getting Started"
 + Syllabus: Refer to this document often! Make a note somewhere of all due dates and exam dates! Read the fine print!
 + Module_agreement: This document must be read, signed, and given to me at the beginning of the semester.
-+ What is bioinformatics?
 + Accessing the command line of a Linux environment locally and remotely
-+ Best practices
++ Collection of resources to introduce you to the field of bioinformatics and computational biology
+---
+## What is bioinformatics anyway?
+[A beginner's guide to bioinformatics](pdf/Beg_guide_bioinfo.pdf)
+
+---
+## Tips for beginning bioinformaticians
+[Ten tips and habits to start early on your bioinfo path!](https://www.10xgenomics.com/analysis-guides/10-tips-for-biologists-learning-bioinformatics)
+
+---
+## History of bioinformatics
+[A Brief History of Bioinformatics](pdf/Brief_hist_bioinfo.pdf)
+
+---
+## Core competencies in bioinformatics
+[Bioinformatics core competencies for undergrads](pdf/Core_compet.pdf)
+
+---
+## How to organize your bioinformatics or computational projects
+[Quick guide to organizing computational projects](pdf/Proj_organization.pdf)
+
+---
+## Best practices -- very important!
+[Good 'nuff practices](pdf/good_nuff.pdf)
+
 
