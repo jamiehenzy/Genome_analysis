@@ -1,4 +1,4 @@
-# Bioinformatics "lite" for undergraduates! F26
+# Bioinformatics "lite" for undergraduates! Fall 2026
 BIOL 2406: "Computational Tools in Genome Analysis (CTGA)" introduces you to basic bioinformatic tools for analyzing sequencing data. 
 
 + Since many bioinformatics analyses involve tools written for the command line, you'll learn to navigate a UNIX-style environment and get comfortable writing simple bash scripts, and accessing and downloading genomic data from various sources.
