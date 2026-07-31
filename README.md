@@ -1,5 +1,11 @@
 # Bioinformatics "lite" for undergraduates! F26
-BIOL 2406: "Computational Tools in Genome Analysis (CTGA)" introduces you to basic bioinformatic tools for analyzing sequencing data. Since many bioinformatics analyses involve tools written for the command line, you'll learn to navigate a UNIX-style environment and get comfortable writing simple bash scripts, and accessing and downloading genomic data from various sources. You're next introduced to Northeastern's high-performance computing cluster so that you'll have the computing power and space to work with actual sequencing data, some of which comes from Northeastern research labs. You'll gain experience using programs to assess the quality of sequencing reads, index genomes, align reads, call variants, and generate read counts tables. You'll learn to operate in RStudio, where you'll perform differential gene expression (DGE) analysis with RNA-seq data and generate various associated plots, such as PCA plots, dispersion plots, and heatmaps. You'll then use the "ape" package in RStudio to generate a phylogenetic tree of a gene-of-interest from the DGE results. 
+BIOL 2406: "Computational Tools in Genome Analysis (CTGA)" introduces you to basic bioinformatic tools for analyzing sequencing data. 
+
++ Since many bioinformatics analyses involve tools written for the command line, you'll learn to navigate a UNIX-style environment and get comfortable writing simple bash scripts, and accessing and downloading genomic data from various sources.
++ You're next introduced to Northeastern's high-performance computing cluster so that you'll have the computing power and space to work with actual sequencing data, some of which comes from Northeastern research labs.
++ You'll gain experience using programs on the cluster to assess the quality of sequencing reads, index genomes, align reads, call variants, and generate read counts tables.
++ You'll learn to operate in RStudio, where you'll perform differential gene expression (DGE) analysis with RNA-seq data and generate various associated plots, such as PCA plots, dispersion plots, and heatmaps.
++ You'll then use the "ape" package in RStudio to generate a phylogenetic tree of a gene-of-interest from the DGE results. 
 
 The course prepares you for "Computational Project Lab" (BIOL 2407), which can be taken in place of Biology Project Lab (BIOL2309). In the computational project lab, you'll design and carry out your own research project, just as in Biology Project Lab, but using bioinformatics/computational tools instead of pipettors!
 
