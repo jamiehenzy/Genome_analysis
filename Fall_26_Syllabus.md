@@ -75,7 +75,7 @@ Below is a rough idea of the topics we'll cover from session to session. However
 |Thu Oct 1| Running jobs on cluster: SLURM
 |Mon Oct 5| Indexing and mapping a genome with Bowtie2
 |Thu Oct 8| Indexing and mapping with STAR
-| **Mon Oct 12	NO CLASS (Holiday)** |
+| | **Mon Oct 12	NO CLASS (Holiday)** |
 | Thu Oct 15 | Calling variants: genotype likelihoods
 | Mon Oct 19 | Analyzing variant data
 |**RStudio module**|
@@ -89,8 +89,8 @@ Below is a rough idea of the topics we'll cover from session to session. However
 |Thu Nov 12| DGE workflow in RStudio; PCA plots
 |Mon Nov 16| Visualizing DGE results: heatmaps, scatterplots
 |Thu Nov 19| Star t-to-finish DGE with new data
-| **Mon Nov 23 In-class exam** |
-|**Thu Nov 26	NO CLASS (Holiday)**|
+|**NOTE**|**Mon Nov 23 In-class exam** |
+||**Thu Nov 26	NO CLASS (Holiday)**|
 |Mon Nov 30|Analyzing DGE results|
 |**Phylogenomics module**|
 |Thu Dec 3|Pairwise and multiple-sequence alignment|
