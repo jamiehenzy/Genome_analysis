@@ -38,20 +38,18 @@ _Grading_: 	Timely and successful completion of five modules 	50%
 			Exams (in-class + takehome final) 					20%
 
 Due dates for assignments and quizzes:
-1  UNIX_HPC		Mon Sep 28
-2  Explore!		Mon Oct 19
-3  RStudio		Thu Nov 5
-Quiz 1, in-class	Mon Nov 23	
-4  DGE workflow	Mon Nov 30
-5  Phylogenomics	Thu Dec 10
-
-Quiz 2, take-home	Thu Dec 17 – due
++ UNIX_HPC		Mon Sep 28
++ Explore!		Mon Oct 19
++ RStudio		Thu Nov 5
++ Quiz 1, in-class	Mon Nov 23	
++ DGE workflow	Mon Nov 30
++ Phylogenomics	Thu Dec 10
++ Quiz 2, take-home	Thu Dec 17 – due
 
 Grades are determined according to this chart showing the absolute minimum percentages necessary for each grade:
 
- 
-
 _Assignments_
+
 **UNIX/HPC**: Upon completion you'll be very comfortable working on the command line and navigating the structure of your file system and that of the high-performance computing cluster, “Explorer”. You'll also set up a Github account to use as a portfolio for your work.
 
 **Explore!**: High-Performance Computing refers to a cluster of interconnected computers that supply memory and processing power far beyond what your laptop or desktop provides. Anyone who works with genomic datasets needs to know how to interact with such a system to run analyses on large datasets. You'll learn to navigate the system and use various tools to explore and analyze sequences. You’ll align sequencing reads to a reference genome and find variants -- the spice of life-- involved in disease and evolution!
