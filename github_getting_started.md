@@ -16,10 +16,10 @@ By the end of this course, your GitHub repository will be a **portfolio** - a pr
 2. Click **Sign up**
 3. Enter your email address, create a password, and choose a username
 
-> **Choosing a username:** Pick something professional — ideally your name or a close variation of it. This username will appear on your portfolio and may be seen by future employers. Avoid usernames with random numbers or nicknames.
+> **Choosing a username:** Pick something professional such as your name or a close variation of it. This username will appear on your portfolio and may be seen by future employers. Avoid usernames with random numbers or nicknames.
 
-4. Follow the prompts to verify your email address and complete setup
-5. When asked about your plan, choose the **Free** option — it includes everything you need
+4. Follow the prompts to verify your email address and complete setup.
+5. When asked about your plan, choose the **Free** option, which includes everything you need.
 
 ---
 
