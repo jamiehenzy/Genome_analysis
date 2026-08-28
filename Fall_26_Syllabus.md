@@ -64,23 +64,27 @@ Below is a rough idea of the topics we'll cover from session to session. However
 
 |Date|Topics|
 |----|------|
+|**UNIX module**|
 |Thu Sep 10| Course introduction; Command line setup, best practices; Github accounts |
 |Mon Sep 14| UNIX basic commands |
 |Thu Sep 17| Writing bash scripts; file permissions |
 |Mon Sep 21| Regular expressions; FASTQ files |
 |Thu Sep 24|	Intro to Explorer: nodes and directories
 |Mon Sep 28|	Using modules on explorer
+|**Explore! module**|
 |Thu Oct 1| Running jobs on cluster: SLURM
 |Mon Oct 5| Indexing and mapping a genome with Bowtie2
 |Thu Oct 8| Indexing and mapping with STAR
 | **Mon Oct 12	NO CLASS (Holiday)** |
 | Thu Oct 15 | Calling variants: genotype likelihoods
 | Mon Oct 19 | Analyzing variant data
+|**RStudio module**|
 | Thu Oct 22 | RStudio introduction
 | Mon Oct 26 | Wrangling data
 | Thu Oct 29 | Reading in and modifying GEO datasets
 | Mon Nov 2| Plotting: basic and ggplot2
 | Thu Nov 5| Generating a heatmap from real data
+|**DGE workflow module**|
 | Mon Nov 9| Intro to differential gene expression (DGE) analysis
 |Thu Nov 12| DGE workflow in RStudio; PCA plots
 |Mon Nov 16| Visualizing DGE results: heatmaps, scatterplots
@@ -88,6 +92,7 @@ Below is a rough idea of the topics we'll cover from session to session. However
 | **Mon Nov 23 In-class exam** |
 |**Thu Nov 26	NO CLASS (Holiday)**|
 |Mon Nov 30|Analyzing DGE results|
+|**Phylogenomics module**|
 |Thu Dec 3|Pairwise and multiple-sequence alignment|
 |Mon Dec 7|Tree-building methods; bootstrapping| 
 |Thu Dec 10|Phylogenetic analysis with "ape" package|
