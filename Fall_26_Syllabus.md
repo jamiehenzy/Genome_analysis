@@ -7,24 +7,24 @@ Molecular biology has become a big-data science. The wealth of sequencing data c
 _Prerequisites_: Can be taken concurrently with BIOL 2301 
 
 _Learning objectives_. Upon completion of the course, students will be able to:
-•	Access and download various types of sequencing data from a variety of databases
-•	Understand file structure and organize files and data in a Unix environment
-•	Use basic Unix commands to parse and perform operations on high-throughput data files
-•	Work with large amounts of data on Northeastern's high-performance computing cluster
-•	Write simple scripts to handle multiple files and complex computing tasks
-•	Map reads to a genome and analyze variants
-•	Use RStudio to perform differential gene expression analysis on RNA-seq data
-•	Perform a basic phylogenetic analysis
-•	Generate various types of plots to display genomic data
-•	Design basic A to Z workflows for common genomic analyses 
-•	Understand and implement "best practices" in computational research
++ Access and download various types of sequencing data from a variety of databases
++ Understand file structure and organize files and data in a Unix environment
++ Use basic Unix commands to parse and perform operations on high-throughput data files
++ Work with large amounts of data on Northeastern's high-performance computing cluster
++ Write simple scripts to handle multiple files and complex computing tasks
++ Map reads to a genome and analyze variants
++ Use RStudio to perform differential gene expression analysis on RNA-seq data
++ Perform a basic phylogenetic analysis
++ Generate various types of plots to display genomic data
++ Design basic A to Z workflows for common genomic analyses 
++ Understand and implement "best practices" in computational research
 
 _Format_: In-person. Each session will contain some lecture/discussion to introduce concepts, followed by lots of hands-on exercises working with various tools, as in a workshop. During the lecture portion, please keep your laptops closed.
 
 _Material_: 
-•	GitHub: readings and other material for the course is on my GitHub site
-•	Canvas: a schedule of the class sessions is in Modules on the Canvas site
-•	Laptop: please bring one to each class, but use it only during "workshop" portion.
++ GitHub: readings and other material for the course is on my GitHub site
++ Canvas: a schedule of the class sessions is in Modules on the Canvas site
++ Laptop: please bring one to each class, but use it only during "workshop" portion.
 
 Submission of work: Each student will set up a Github account. Additionally, you'll have an account on NU's "Explorer cluster". Some components of assignments will be submitted to Github and others to the cluster, as per the instructions specific to that assignment.
 
