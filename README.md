@@ -11,14 +11,13 @@ BIOL 2406: "Computational Tools in Genome Analysis (CTGA)" introduces you to bas
 The course prepares you for "Computational Project Lab" (BIOL 2407), which can be taken in place of Biology Project Lab (BIOL2309). In the computational project lab, you'll design and carry out your own research project, just as in Biology Project Lab, but using bioinformatics/computational tools instead of pipettors!
 
 ## Course material
-The material for the course is arranged in repositories (that are perpetually under construction) that begin with "CTGA_":
-+ 0_Getting-started - Syllabus; intro readings; setting up command-line access; best practices and tips, etc.
-+ 1_UNIX_HPC - Basic tutorial and exercises to get you comfortable with the command line, both locally and remotely.
-+ 2_Explore - Specific command-line tools for downloading, viewing, parsing, and performing simple analysis on data.
-+ 3_RStudio - Tutorials for installing packages, reading in and parsing data, and performing analyses in RStudio.
-+ 4_Visualization - Plotting and visualizing data in various ways in RStudio.
-+ 5_DGE - Introduction to the workflow of differential gene expression analysis; you start with reads and end with a heatmap to visualize DE genes.
-+ 6_Phylo - Exercises to introduce concepts of phylogenetics and RStudio scripts to carry out a homolog-to-MSA-to-tree analysis.
+The material for the course is arranged in repositories (that are perpetually under construction) that begin with two digits:
++ 00_Getting-started - Syllabus; intro readings; setting up command-line access; best practices and tips, etc.
++ 01_UNIX_HPC - Basic tutorial and exercises to get you comfortable with the command line, both locally and remotely.
++ 02_Explore - Specific command-line tools for downloading, viewing, parsing, and performing simple analysis on data.
++ 03_RStudio - Tutorials for installing packages, reading in and parsing data, performing analyses in RStudio, and visualizing data.
++ 04_DGE - Introduction to the workflow of differential gene expression analysis; you start with reads and end with a heatmap to visualize DE genes.
++ 05_Phylo - Exercises to introduce concepts of phylogenetics and RStudio scripts to carry out a homolog-to-MSA-to-tree analysis.
 
 ### Material in this repo, "Getting Started"
 + Syllabus: Refer to this document often! Make a note of all due dates and exam dates! Read the fine print!
