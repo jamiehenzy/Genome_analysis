@@ -8,7 +8,7 @@ Don't worry if none of these terms are familiar yet. Each term will be explained
 
 GitHub is a website that stores code and documents in an organized, version-controlled way. Think of it as Google Drive, but specifically designed for code and documentation, with the added feature that it keeps a complete history of every change you make.
 
-By the end of this course, your GitHub repository will be a **portfolio** — a professional record of the bioinformatics skills you have developed. This is something you can share with future employers or graduate programs to demonstrate real, hands-on experience.
+By the end of this course, your GitHub repository will be a **portfolio** - a professional record of the bioinformatics skills you have developed. This is something you can share with future employers or graduate programs to demonstrate real, hands-on experience.
 
 ## Part 1: Create a GitHub Account
 
