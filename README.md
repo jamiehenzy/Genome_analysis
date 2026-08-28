@@ -22,8 +22,8 @@ The material for the course is arranged in repositories (that are perpetually un
 ### Material in this repo, "Getting Started"
 + Fall_26_Syllabus: Refer to this document often! Make a note of all due dates and exam dates! Read the fine print!
 + Module_agreement: This document must be read, signed, and given to me at the beginning of the semester.
++ Command_line_getting_started: Instructions on accessing the command line of a Linux environment locally and remotely
 + Github_getting_started: How to set up your Github "portfolio" for the course and beyond
-+ Instructions on accessing the command line of a Linux environment locally and remotely
 + Collection of resources (below) to introduce you to the field of bioinformatics and computational biology
 ---
 ## What is bioinformatics anyway?
