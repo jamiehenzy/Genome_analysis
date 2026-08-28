@@ -36,23 +36,23 @@ A **repository** (often called a "repo") is a folder on GitHub that stores all t
    - Check the box that says **Add a README file**
 4. Click **Create repository**
 
-You should now see your new repository with a single file called `README.md`. This file is the front page of your portfolio — we will edit it later.
+You should now see your new repository with a single file called `README.md`. This file is the front page of your portfolio, which we will edit later.
 
 ### Add the .gitignore File
 
-A `.gitignore` file tells Git which files it should never push to GitHub — in our case, large data files like raw sequencing reads and genome assemblies that have no place in a code repository. Your instructor has provided this file for you.
+A `.gitignore` file tells Git which files it should never push to GitHub. In our case, these include large data files like raw sequencing reads and genome assemblies that have no place in a code repository. Your instructor has provided this file for you.
 
 Add it to your repository now, before you do anything else:
 
 1. Go to your instructor's GitHub page and open the `.gitignore` file they have provided. Copy its entire contents.
 2. In your own repository, click **Add file → Create new file**
-3. Name the file `.gitignore` — the dot at the beginning is essential, so don't leave it out
-4. Paste the contents you copied into the editor
+3. Name the file `.gitignore` . Note: the dot at the beginning is essential, so don't leave it out!
+4. Paste the contents you copied into the editor.
 5. Click **Commit new file**
 
 Your repository should now contain two files: `README.md` and `.gitignore`.
 
-> **Note:** Files beginning with a dot are hidden on Linux systems. When you later clone your repository onto the cluster and type `ls`, you won't see `.gitignore` in the listing. This is normal — it is there. To see hidden files, use `ls -a` instead.
+> **Note:** Files beginning with a dot are hidden on Linux systems. When you later clone your repository onto the cluster and type `ls`, you won't see `.gitignore` in the listing but rest assured, it is there. To see hidden files, use `ls -a` instead.
 
 ---
 
@@ -110,7 +110,7 @@ Back on the cluster, type:
 ssh -T git@github.com
 ```
 
-You may see a message asking if you want to continue connecting — type `yes` and press Enter. If everything worked, you should see a message like:
+You may see a message asking if you want to continue connecting. Type `yes` and press Enter. If everything worked, you should see a message like:
 
 ```
 Hi username! You've successfully authenticated, but GitHub does not provide shell access.
