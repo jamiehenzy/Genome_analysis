@@ -2,6 +2,8 @@
 
 Learning to access your computer through the command line instead of the usual graphical user interface (GUI) will allow you to do so much more with your computer! You'll be able to work with large numbers of files more efficiently, interact with a high-performance computing (HPC) cluster, and access many more useful tools to analyze genomic data. You'll learn to work on the command line starting in the first UNIX tutorial, but for now, let's just make sure you can access the command line and use it to log onto Northeastern's HPC cluster, _Explorer_.
 
+![alt text](https://github.com/jamiehenzy/Genome-analysis_Unit_1/blob/assets/Terminal_why.png)
+
 **If you have a Mac**, you can access the command line by opening the Terminal app. (Type "terminal" into the search tool or find it in your Applications folder).
 
 **If you work in a Windows system**, the newer computers have something called PowerShell that you can activate. Press the Windows Key and type "PowerShell" into the search bar and hit "Enter".
