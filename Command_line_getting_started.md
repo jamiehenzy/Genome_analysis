@@ -1,6 +1,6 @@
-### Get started by making sure you can access a command line.
+### Get started by making sure you can access a command line
 
-Learning to access your computer through the command line instead of the usual graphical user interface (GUI) will allow you to do so much more with your computer! You'll be able to work with large numbers of files more efficiently, interact with a high-performance computing (HPC) cluster, and access many more useful tools to analyze genomic data. You'll learn to work on the command line starting in the first UNIX tutorial, but for now, let's just make sure you can access the command line and use it to log onto Northeastern's HPC cluster, "Explorer".
+Learning to access your computer through the command line instead of the usual graphical user interface (GUI) will allow you to do so much more with your computer! You'll be able to work with large numbers of files more efficiently, interact with a high-performance computing (HPC) cluster, and access many more useful tools to analyze genomic data. You'll learn to work on the command line starting in the first UNIX tutorial, but for now, let's just make sure you can access the command line and use it to log onto Northeastern's HPC cluster, _Explorer_.
 
 **If you have a Mac**, you can access the command line by opening the Terminal app. (Type "terminal" into the search tool or find it in your Applications folder).
 
@@ -14,4 +14,4 @@ NOTE: when you see the \< and \> symbols around text in a command, that means yo
 
 You'll then be asked to enter your password, but as you type it, you won't see the prompt moving. If you entered everything correctly, you'll see a screen that has "EXPLORER" printed in large letters across it.
 
-Please always log off after you finish a session. To do so, enter the word "exit" at the prompt. Congrats on your maiden voyage into a new world!
+**First "best practice"**: Please always log off after you finish a session. To do so, enter the word "exit" at the prompt. Congrats on your maiden voyage into a new world!
