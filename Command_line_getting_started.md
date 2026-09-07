@@ -16,4 +16,4 @@ NOTE: when you see the \< and \> symbols around text in a command, that means yo
 
 You'll then be asked to enter your password, but as you type it, you won't see the prompt moving. If you entered everything correctly, you'll see a screen that has "EXPLORER" printed in large letters across it.
 
-**First "best practice"**: Please always log off after you finish a session. To do so, enter the word "exit" at the prompt. Congrats on your maiden voyage into a new world!
+**First "best practice"**: Please always log off after you finish a session. To do so, enter the word "exit" at the prompt. Congrats on your maiden voyage into an exciting new world!
